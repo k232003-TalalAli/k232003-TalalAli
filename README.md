@@ -1,9 +1,8 @@
 ## 👨‍💻 About Me
 
-- 🎓 **BS in Cybersecurity** — FAST NUCES, Karachi (Expected 2027)
-- 🔐 Focused on **Cybersecurity**, **Software Development**, and **Networking**
-- 🛠️ Passionate about building GUI tools, learning new languages, and creating beginner-friendly simulations
-- 📈 Actively enhancing my technical skills and exploring new areas in cybersecurity and software engineering
+- 🎓 **BS in Cybersecurity** — FAST NUCES, Karachi (Expected to graduate in 2027)
+- 🔐 Focused on **Cybersecurity** and **Software Development**.
+- 🛠️ Passionate about building both CLI and GUI tools, learning new languages, and creating beginner-friendly simulations.
 
 ---
 
@@ -11,7 +10,7 @@
 
 | **Languages**                                             | **Tools & Frameworks**                      | **Specializations**                                                                 |
 |----------------------------------------------------------|---------------------------------------------|-------------------------------------------------------------------------------------|
-| `C`, `C++`, `Python`, `HTML/CSS`, `Flutter`, `FlutterFlow`,<br>`Intel x86 Assembly (Irvine32)` | `Git`, `VS Code`, `Ubuntu`, `Firebase`, `SQLite` | `OOP`, `Cryptography`, `Networking`,<br>`Operating Systems`, `DBMS`, `Socket Programming`, `Data Structures` |
+| `C`, `C++`, `Python`, `HTML/CSS`, `Dart/Flutter`, `FlutterFlow`,<br>`Intel x86 Assembly (Irvine32)` | `Git`, `VS Code`, `Ubuntu`, `Firebase`, `SQLite` | `OOP`, `Cryptography`, `Networking`,<br>`Operating Systems`, `DBMS`, `Socket Programming`, `Data Structures` |
 
 ---
 
