@@ -10,7 +10,7 @@
 
 | **Languages**                                             | **Tools & Frameworks**                      | **Specializations**                                                                 |
 |----------------------------------------------------------|---------------------------------------------|-------------------------------------------------------------------------------------|
-| `C`, `C++`, `Python`, `HTML/CSS`,<br>`Dart/Flutter`, `FlutterFlow`,<br>`Intel x86 Assembly (Irvine32)` | `Git`,`Visual Studio` , `VS Code`, `Ubuntu`, `Firebase`, `SQLite` | `OOP`, `Cryptography`, `Networking`,<br>`Operating Systems`, `DBMS`, `Socket Programming`, `Data Structures` |
+| `C`, `C++`, `Python`, `HTML/CSS`,`Dart/Flutter`, `FlutterFlow`,<br>`Intel x86 Assembly (Irvine32)` | `Git`,`Visual Studio` , `VS Code`, `Ubuntu`, `Firebase`, `SQLite` | `OOP`, `Cryptography`, `Networking`,<br>`Operating Systems`, `DBMS`, `Socket Programming`, `Data Structures` |
 
 ---
 
