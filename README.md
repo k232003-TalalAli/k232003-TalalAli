@@ -31,14 +31,18 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=k232003-Talal&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k232003-Talal&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=k232003-Talal&theme=tokyonight&hide_border=true)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=k232003-Talal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k232003-Talal&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=k232003-Talal&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=k232003-Talal&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 📫 Connect
 
-- 📧 Email: [talalaliarain2@gmail.com](mailto:talalaliarain2@gmail.com)
-- 🔗 GitHub: [k232003-Talal](https://github.com/k232003-Talal)
+[![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talalaliarain2@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/k232003-Talal)
+
