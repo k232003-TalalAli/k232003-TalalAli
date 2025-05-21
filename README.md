@@ -18,7 +18,7 @@
 
 | **Project** | **Description** |
 |------------|-----------------|
-| [🍽️ Secure Chat App](https://github.com/k232003-TalalAli/Secure-Chat-App) | A secure chat application with end-to-end encryption using RSA for peer-to-peer communication. |
+| [🔐 Secure Chat App](https://github.com/k232003-TalalAli/Secure-Chat-App) | A secure chat application with end-to-end encryption using RSA for peer-to-peer communication. |
 | [📊 Video Analytics System](https://github.com/k232003-TalalAli/Video_Platform_Analytics_System) | A Flutter-based app mimicking YouTube Studio that enables content creators to manage channels, videos, and analytics. |
 | [✈️ Flight Management System](https://github.com/k232003-TalalAli/Flight-Management-System) | A concurrent flight booking system using multithreading, semaphores, and mutexes to handle the readers-writers problem. |
 | [🧁 Bakery Management System](https://github.com/k232003-TalalAli/Bakery-Management-System) | A console-based system that allows users to manage their digital wallet and place bakery orders. |
